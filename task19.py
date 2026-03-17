@@ -7,5 +7,3 @@ for i in range(n):
         max_num =num
 print("The largest number: ", max_num )
         
-        
-    
